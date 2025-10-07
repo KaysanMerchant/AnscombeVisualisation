@@ -1,4 +1,6 @@
-# Anscombe's Quartet Data Visualisation
+---
+title: Anscombe's Quartet Data Visualisation
+---
 
 [PDF version of the Jupyter Notebook file of Anscombe's Quartet]: Anscombe%20Quartet%20Data%20Visualisation.pdf
 
